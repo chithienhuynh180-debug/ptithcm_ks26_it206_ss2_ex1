@@ -1,0 +1,17 @@
+Phần 1: Phân tích lỗi
+
+câu lệnh chỉ có Request. thiếu 5 thành phần:
+- Character: không nói ai viết nên AI viết chung chung.
+- Examples: không có mẫu nên không biết phong cách TechShop.
+- Adjustment: không nói độ dài, giọng văn nên bài dài dòng.
+- Type of Output: không yêu cầu cấu trúc nên chỉ ra một đoạn văn.
+- Extras: thiếu giá khuyến mãi, ưu đãi nên bài không có thông tin cụ thể.
+
+Phần 2: Prompt hoàn chỉnh
+
+[C] Bạn là chuyên viên marketing của TechShop.
+[R] Viết bài đăng Facebook quảng bá iPhone mới.
+[E] Phong cách tham khảo: "🔥 Hàng mới cập bến rồi nè! Ghé TechShop nhận ưu đãi hôm nay thôi!"
+[A] Giọng trẻ trung, thân thiện. 120 đến 150 từ. Tránh từ sáo rỗng.
+[T] 1 câu mở đầu, 3 gạch đầu dòng có icon, 1 dòng giá khuyến mãi, 1 câu kêu gọi, 3 hashtag.
+[E] Dòng máy: [TÊN MÁY]. Giá khuyến mãi: [GIÁ]. Quà tặng: [QUÀ]. Thời gian: [THỜI GIAN]. Đối tượng: 18 đến 30 tuổi.
